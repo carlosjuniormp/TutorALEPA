@@ -22,3 +22,17 @@
 - **PL.AL.070 é o cargo 15 — Assistência Legislativa**, corrigido pela Retificação 003/2026, e usa conteúdos próprios da Retificação 002/2026.
 - Não reproduzir apostilas licenciadas nem expor suas marcas d'água num repositório público.
 - Nem todas as 1.285 páginas privadas, normas citadas ou detalhes de todos os editais estão auditados. Status e lacunas devem ser declarados.
+
+## Base pesquisável (fase técnica)
+- [Dados de cargos](data/cargos.json) e [50 tópicos iniciais estruturados](data/topicos.json)
+- [Busca local em Python](tutoralepa.py), [guia de consulta](base/como-consultar.md) e [testes](tests/test_tutoralepa.py)
+- [Workflow de validação GitHub Actions](.github/workflows/validar-base.yml)
+- [Questões validadas](data/questoes.json): coleção ainda vazia por exigência de revisão jurídica e de procedência.
+
+Exemplos:
+```bash
+python tutoralepa.py validar
+python tutoralepa.py buscar "orçamento" --trilha SUP-15
+python -m unittest discover -s tests -v
+```
+**Limitações:** busca por títulos e tags, não por texto integral de PDF; não é aplicativo web. Acompanhamento lê arquivo de tentativas local, não mantém conta/sincronização de aluno. A aprovação da suíte de testes no GitHub Actions depende de execução e deve ser verificada na aba Actions.
