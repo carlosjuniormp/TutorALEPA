@@ -1,0 +1,906 @@
+{
+  "versao": "2026-11-10",
+  "escopo": "registros temáticos iniciais não exaustivos",
+  "topicos": [
+    {
+      "id": "med-04-portugues-interpretação-textual",
+      "trilha": "MED-04",
+      "disciplina": "portugues",
+      "titulo": "Interpretação e argumentação textual",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "portugues",
+        "interpretação-textual"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-legislacao-etica-lgpd",
+      "trilha": "MED-04",
+      "disciplina": "legislacao-etica",
+      "titulo": "Lei Geral de Proteção de Dados",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "legislacao-etica",
+        "lgpd"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-informatica-seguranca-informacao",
+      "trilha": "MED-04",
+      "disciplina": "informatica",
+      "titulo": "Segurança da informação",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "informatica",
+        "seguranca-informacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-raciocinio-logico-proporcionalidade",
+      "trilha": "MED-04",
+      "disciplina": "raciocinio-logico",
+      "titulo": "Proporcionalidade, regra de três e porcentagem",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "raciocinio-logico",
+        "proporcionalidade"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-direito-constitucional-direitos-fundamentais",
+      "trilha": "MED-04",
+      "disciplina": "direito-constitucional",
+      "titulo": "Direitos e garantias fundamentais",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-constitucional",
+        "direitos-fundamentais"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-direito-administrativo-licitacoes",
+      "trilha": "MED-04",
+      "disciplina": "direito-administrativo",
+      "titulo": "Licitações e contratos — Lei nº 14.133/2021",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-administrativo",
+        "licitacoes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-tecnica-legislativa-lc95",
+      "trilha": "MED-04",
+      "disciplina": "tecnica-legislativa",
+      "titulo": "Técnica legislativa — LC nº 95/1998",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "tecnica-legislativa",
+        "lc95"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-administracao-publica-organizacao",
+      "trilha": "MED-04",
+      "disciplina": "administracao-publica",
+      "titulo": "Estruturas organizacionais e processos",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "administracao-publica",
+        "organizacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-secretaria-gestao-documental",
+      "trilha": "MED-04",
+      "disciplina": "secretaria",
+      "titulo": "Gestão documental e rotinas de secretaria",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "secretaria",
+        "gestao-documental"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-arquivologia-tres-idades",
+      "trilha": "MED-04",
+      "disciplina": "arquivologia",
+      "titulo": "Teoria das três idades e temporalidade documental",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "arquivologia",
+        "tres-idades"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "med-04-materiais-estoques",
+      "trilha": "MED-04",
+      "disciplina": "materiais",
+      "titulo": "Compras, estoques e patrimônio",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 001/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/155/anexos/d34a46a2-5b4c-4023-86ae-c95f04ffae32.pdf",
+        "retificacao": "verificar retificações do edital 001"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "materiais",
+        "estoques"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-portugues-interpretacao",
+      "trilha": "SUP-02",
+      "disciplina": "portugues",
+      "titulo": "Interpretação e redação oficial",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "portugues",
+        "interpretacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-legislacao-etica-normas-alepa",
+      "trilha": "SUP-02",
+      "disciplina": "legislacao-etica",
+      "titulo": "Normas institucionais da ALEPA",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "legislacao-etica",
+        "normas-alepa"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-informatica-ferramentas",
+      "trilha": "SUP-02",
+      "disciplina": "informatica",
+      "titulo": "Ferramentas de escritório e segurança",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "informatica",
+        "ferramentas"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-raciocinio-logico-relacoes",
+      "trilha": "SUP-02",
+      "disciplina": "raciocinio-logico",
+      "titulo": "Estruturas lógicas e deduções",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "raciocinio-logico",
+        "relacoes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-secretaria-rotinas",
+      "trilha": "SUP-02",
+      "disciplina": "secretaria",
+      "titulo": "Noções básicas de secretaria",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "secretaria",
+        "rotinas"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-administracao-geral-planejamento",
+      "trilha": "SUP-02",
+      "disciplina": "administracao-geral",
+      "titulo": "Planejamento, projetos, 5W2H e PDCA",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "administracao-geral",
+        "planejamento"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-administrativo-atos-agentes",
+      "trilha": "SUP-02",
+      "disciplina": "direito-administrativo",
+      "titulo": "Atos administrativos e agentes públicos",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-administrativo",
+        "atos-agentes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-constitucional-organizacao",
+      "trilha": "SUP-02",
+      "disciplina": "direito-constitucional",
+      "titulo": "Direitos fundamentais e organização do Estado",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-constitucional",
+        "organizacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-processual-constitucional-controle",
+      "trilha": "SUP-02",
+      "disciplina": "direito-processual-constitucional",
+      "titulo": "Controle de constitucionalidade e remédios",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-processual-constitucional",
+        "controle"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-processo-legislativo-tramitação",
+      "trilha": "SUP-02",
+      "disciplina": "processo-legislativo",
+      "titulo": "Proposições, comissões, sanção e veto",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "processo-legislativo",
+        "tramitação"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-financeiro-orcamento",
+      "trilha": "SUP-02",
+      "disciplina": "direito-financeiro",
+      "titulo": "PPA, LDO, LOA e legislação financeira",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-financeiro",
+        "orcamento"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-previdenciario-regimes",
+      "trilha": "SUP-02",
+      "disciplina": "direito-previdenciario",
+      "titulo": "RGPS e RPPS",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-previdenciario",
+        "regimes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-civil-lindb",
+      "trilha": "SUP-02",
+      "disciplina": "direito-civil",
+      "titulo": "LINDB, pessoas, contratos e responsabilidade",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-civil",
+        "linDB"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direito-processual-civil-cpc",
+      "trilha": "SUP-02",
+      "disciplina": "direito-processual-civil",
+      "titulo": "CPC e processos envolvendo a Fazenda Pública",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-processual-civil",
+        "cpc"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-02-direitos-humanos-fundamentos",
+      "trilha": "SUP-02",
+      "disciplina": "direitos-humanos",
+      "titulo": "Fundamentos e características dos direitos humanos",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direitos-humanos",
+        "fundamentos"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-portugues-interpretacao",
+      "trilha": "SUP-15",
+      "disciplina": "portugues",
+      "titulo": "Interpretação e redação oficial",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "portugues",
+        "interpretacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-legislacao-etica-normas-alepa",
+      "trilha": "SUP-15",
+      "disciplina": "legislacao-etica",
+      "titulo": "Normas institucionais da ALEPA",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "legislacao-etica",
+        "normas-alepa"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-informatica-ferramentas",
+      "trilha": "SUP-15",
+      "disciplina": "informatica",
+      "titulo": "Ferramentas de escritório e segurança",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "informatica",
+        "ferramentas"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-raciocinio-logico-relacoes",
+      "trilha": "SUP-15",
+      "disciplina": "raciocinio-logico",
+      "titulo": "Estruturas lógicas e deduções",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "raciocinio-logico",
+        "relacoes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-redacao-oficial-correspondencia",
+      "trilha": "SUP-15",
+      "disciplina": "redacao-oficial",
+      "titulo": "Padrão ofício e correspondência institucional",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026 + correção de numeração na 003/2026"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "redacao-oficial",
+        "correspondencia"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-cerimonial-precedencia",
+      "trilha": "SUP-15",
+      "disciplina": "cerimonial",
+      "titulo": "Cerimonial, protocolo e precedência",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026 + correção de numeração na 003/2026"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "cerimonial",
+        "precedencia"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-arquivologia-protocolo",
+      "trilha": "SUP-15",
+      "disciplina": "arquivologia",
+      "titulo": "Arquivo, protocolo e classificação",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026 + correção de numeração na 003/2026"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "arquivologia",
+        "protocolo"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-gestao-recursos-materiais-patrimonio",
+      "trilha": "SUP-15",
+      "disciplina": "gestao-recursos",
+      "titulo": "Gestão de materiais, estoques e patrimônio",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026 + correção de numeração na 003/2026"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "gestao-recursos",
+        "materiais-patrimonio"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-15-contabilidade-publica-orcamento",
+      "trilha": "SUP-15",
+      "disciplina": "contabilidade-publica",
+      "titulo": "PPA, LDO, LOA, empenho e balanços",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026 + correção de numeração na 003/2026"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "contabilidade-publica",
+        "orcamento"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-portugues-interpretacao",
+      "trilha": "SUP-03",
+      "disciplina": "portugues",
+      "titulo": "Interpretação e redação oficial",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "portugues",
+        "interpretacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-legislacao-etica-normas-alepa",
+      "trilha": "SUP-03",
+      "disciplina": "legislacao-etica",
+      "titulo": "Normas institucionais da ALEPA",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "legislacao-etica",
+        "normas-alepa"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-informatica-ferramentas",
+      "trilha": "SUP-03",
+      "disciplina": "informatica",
+      "titulo": "Ferramentas de escritório e segurança",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "informatica",
+        "ferramentas"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-raciocinio-logico-relacoes",
+      "trilha": "SUP-03",
+      "disciplina": "raciocinio-logico",
+      "titulo": "Estruturas lógicas e deduções",
+      "bloco": "geral",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "verificar retificações do edital 002"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "raciocinio-logico",
+        "relacoes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-secretaria-rotinas",
+      "trilha": "SUP-03",
+      "disciplina": "secretaria",
+      "titulo": "Noções básicas de secretaria",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "secretaria",
+        "rotinas"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-administracao-geral-planejamento",
+      "trilha": "SUP-03",
+      "disciplina": "administracao-geral",
+      "titulo": "Planejamento, projetos, 5W2H e PDCA",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "administracao-geral",
+        "planejamento"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-administrativo-atos-agentes",
+      "trilha": "SUP-03",
+      "disciplina": "direito-administrativo",
+      "titulo": "Atos administrativos e agentes públicos",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-administrativo",
+        "atos-agentes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-constitucional-organizacao",
+      "trilha": "SUP-03",
+      "disciplina": "direito-constitucional",
+      "titulo": "Direitos fundamentais e organização do Estado",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-constitucional",
+        "organizacao"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-processual-constitucional-controle",
+      "trilha": "SUP-03",
+      "disciplina": "direito-processual-constitucional",
+      "titulo": "Controle de constitucionalidade e remédios",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-processual-constitucional",
+        "controle"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-processo-legislativo-tramitação",
+      "trilha": "SUP-03",
+      "disciplina": "processo-legislativo",
+      "titulo": "Proposições, comissões, sanção e veto",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "processo-legislativo",
+        "tramitação"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-financeiro-orcamento",
+      "trilha": "SUP-03",
+      "disciplina": "direito-financeiro",
+      "titulo": "PPA, LDO, LOA e legislação financeira",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-financeiro",
+        "orcamento"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-previdenciario-regimes",
+      "trilha": "SUP-03",
+      "disciplina": "direito-previdenciario",
+      "titulo": "RGPS e RPPS",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-previdenciario",
+        "regimes"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-civil-lindb",
+      "trilha": "SUP-03",
+      "disciplina": "direito-civil",
+      "titulo": "LINDB, pessoas, contratos e responsabilidade",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-civil",
+        "linDB"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direito-processual-civil-cpc",
+      "trilha": "SUP-03",
+      "disciplina": "direito-processual-civil",
+      "titulo": "CPC e processos envolvendo a Fazenda Pública",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direito-processual-civil",
+        "cpc"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    },
+    {
+      "id": "sup-03-direitos-humanos-fundamentos",
+      "trilha": "SUP-03",
+      "disciplina": "direitos-humanos",
+      "titulo": "Fundamentos e características dos direitos humanos",
+      "bloco": "especifico",
+      "fonte": {
+        "documento": "Anexo II e retificações do concurso 002/2026",
+        "url": "https://anexos-r2.selecao.net.br/uploads/237/concursos/156/anexos/66dcfddc-a72b-45ae-96b8-54fa282d8857.pdf",
+        "retificacao": "Retificação 002/2026, conhecimentos específicos comuns aos cargos 01–03"
+      },
+      "status": "resumo_tematico_a_detalhar",
+      "tags": [
+        "direitos-humanos",
+        "fundamentos"
+      ],
+      "observacoes": "Registro síntese; conferir redação literal e subitens da fonte antes de afirmar cobertura integral."
+    }
+  ]
+}
