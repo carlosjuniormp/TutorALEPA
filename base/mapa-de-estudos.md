@@ -1,30 +1,14 @@
-# Mapa inicial de estudos
+# Mapa de estudos — índice
 
-Fonte: páginas oficiais da CETAP e Anexos II; revisão de abrangência pendente.
+A matriz detalhada e segmentada foi publicada em **[matriz-cargos-001-002.md](matriz-cargos-001-002.md)**, com base nos anexos II e retificações 002 e 003.
 
-## Identificação inequívoca dos cargos
-- **Nível médio, 001/2026, cargo 04**: Auxiliar Técnico Legislativo — Assistência Administrativa, **PL.AL.060**.
-- **Nível superior, 002/2026, cargo 15**: Analista Legislativo — Assistência Legislativa, **PL.AL.070**.
-- **Nível superior, 002/2026, cargo 02**: Assessoramento Legislativo — Assessor Técnico, **PL.AL.102**.
-- **Nível superior, 002/2026, cargo 03**: Assessoramento Legislativo — Técnico Legislativo, **PL.AL.102**.
+| Trilha | Concurso | Cargo | Código |
+|---|---|---|---|
+| MED-04 | 001/2026 | 04 — Auxiliar Técnico Legislativo / Assistência Administrativa | PL.AL.060 |
+| SUP-02 | 002/2026 | 02 — Assessoramento Legislativo / Assessor Técnico | PL.AL.102 |
+| SUP-03 | 002/2026 | 03 — Assessoramento Legislativo / Técnico Legislativo | PL.AL.102 |
+| SUP-15 | 002/2026 | 15 — Analista Legislativo / Assistência Legislativa | PL.AL.070 |
 
-**Nunca selecionar exclusivamente pelo código PL.AL.102**, repetido em duas denominações na listagem oficial. A denominação integral e o número do cargo precisam acompanhar todo exercício/roteiro.
+**Importante:** A Retificação 002/2026 separou o específico comum aos cargos **01–03** do específico comum aos cargos **12–15**. A Retificação 003/2026 corrigiu a referência indevida a «cargo 13» no bloco de Assistência Legislativa para **cargo 15**.
 
-## Blocos de ensino compartilhados, sujeitos à matriz definitiva
-- Língua Portuguesa
-- Legislação e ética no serviço público e normas da ALEPA
-- Noções de informática
-- Raciocínio lógico
-
-## Trilhas específicas
-### Médio — Assistência Administrativa PL.AL.060
-Dar prioridade à conferência literal de noções de secretaria, gestão documental/arquivologia, rotinas administrativas e demais itens do Anexo II específico.
-
-### Superior — Assistência Legislativa PL.AL.070
-Incluir expressamente a redação da Retificação 002/2026 para organização administrativa, gestão de recursos, orçamento e contabilidade pública. Estudar PPA/LDO/LOA, Lei nº 4.320/1964 e LRF com base legal atualizada.
-
-### Superior — PL.AL.102 (duas denominações)
-Não presumir que o conteúdo de Assessor Técnico e o de Técnico Legislativo sejam idênticos: validar cargos e programas de modo separado.
-
-## Método
-Cada tópico deverá ter: `concurso`, `cargo_nome`, `codigo`, `disciplina`, `topico`, `fonte_oficial`, `retificacao`, `status_verificacao`, `materiais_de_apoio`. Estudar somente após essa ligação estar estabelecida.
+Para aulas e simulados, use o bloco geral e apenas o bloco específico que corresponde à trilha.
