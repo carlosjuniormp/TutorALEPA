@@ -1,0 +1,20 @@
+{
+  "versao": "2026-11-10",
+  "fontes": [
+    {
+      "id": "CETAP-001",
+      "nivel": "medio",
+      "url": "https://fundacaocetap.selecao.net.br/informacoes/155/"
+    },
+    {
+      "id": "CETAP-002",
+      "nivel": "superior",
+      "url": "https://fundacaocetap.selecao.net.br/informacoes/156/"
+    },
+    {
+      "id": "CETAP-003",
+      "nivel": "procurador",
+      "url": "https://fundacaocetap.selecao.net.br/informacoes/157/"
+    }
+  ]
+}
