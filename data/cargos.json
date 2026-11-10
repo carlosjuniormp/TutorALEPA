@@ -1,0 +1,33 @@
+{
+  "versao": "2026-11-10",
+  "cargos": [
+    {
+      "trilha": "MED-04",
+      "concurso": "001/2026",
+      "cargo_numero": 4,
+      "codigo": "PL.AL.060",
+      "cargo": "Auxiliar Técnico Legislativo — Assistência Administrativa"
+    },
+    {
+      "trilha": "SUP-02",
+      "concurso": "002/2026",
+      "cargo_numero": 2,
+      "codigo": "PL.AL.102",
+      "cargo": "Assessoramento Legislativo — Assessor Técnico"
+    },
+    {
+      "trilha": "SUP-03",
+      "concurso": "002/2026",
+      "cargo_numero": 3,
+      "codigo": "PL.AL.102",
+      "cargo": "Assessoramento Legislativo — Técnico Legislativo"
+    },
+    {
+      "trilha": "SUP-15",
+      "concurso": "002/2026",
+      "cargo_numero": 15,
+      "codigo": "PL.AL.070",
+      "cargo": "Analista Legislativo — Assistência Legislativa"
+    }
+  ]
+}
