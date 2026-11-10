@@ -1,0 +1,8 @@
+# Informações pessoais de estudo e arquivos protegidos
+progresso-local.jsonl
+progresso-*.jsonl
+*.pdf
+.env
+__pycache__/
+*.pyc
+.venv/
